@@ -4,7 +4,7 @@ My development tools
 ## iOS
 
 ### IDE 
-- [Xcode](https://developer.apple.com/xcode/) 🆓
+- [Xcode](https://developer.apple.com/xcode/): Official IDE for developing iOS app from Apple 🆓 🚀
 
 ### Debug 
 - [Timelane](https://github.com/icanzilb/Timelane): Debug iOS asynchronous code 🆓 :octocat:
@@ -16,6 +16,7 @@ My development tools
 
 ### Codegen
 - [PaintCode](https://www.paintcodeapp.com/): Turn drawings into code 💵
+- [R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects 🆓 :octocat:
 
 ### Notification
 - [Pusher](https://github.com/noodlewerk/NWPusher): OS X and iOS application and framework to play with the Apple Push Notification service (APNs) 🆓 :octocat:
