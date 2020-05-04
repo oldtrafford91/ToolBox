@@ -4,6 +4,17 @@ My development tools
 - [iOS](#iOS)
   - [IDE](#IDE)
   - [Debugging](#Debugging)
+  - [Command Line Tool](#CLI)
+  - [Proxy](#Proxy)
+  - [Codegen](#Codegen)
+  - [Notification](#Notification)
+  - [Simulator](#Simulator)
+  - [Services](#Services)
+  - [Learning](#Learning)
+- [Utility](#Utility)
+- [Terminal](#Terminal)
+- [Design](#Design)
+  
 
 ## iOS
 
@@ -23,7 +34,7 @@ My development tools
 - [Brew](https://brew.sh/): Package Manager for macOS 
 - [Mint](https://github.com/yonaskolb/Mint): A package manager that installs and runs Swift CLI packages
 
-### Proxies 
+### Proxy
 - [Charles](https://www.charlesproxy.com/): Cross platfrom HTTP proxy 💵
 - [Proxyman](https://proxyman.io/): Native, high performance macOS proxy app 💵 🇻🇳🇻🇳 ⭐️
 
@@ -46,7 +57,7 @@ My development tools
 - [Swift Talk](https://talk.objc.io/) A weekly video series on Swift programming 💵 ⭐️
 - [PointFree](https://www.pointfree.co/): A video series exploring functional programming and Swift 💵 ⭐️
 
-## Utilities
+## Utility
 - [Kap](https://getkap.co/): Free screen recorder (video, image, gif) using web technology
 
 ## Terminal
