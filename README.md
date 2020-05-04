@@ -2,13 +2,15 @@
 My development tools 
 ## TOC
 - [iOS](#iOS)
+  - [IDE](#IDE)
+  - [Debugging](#Debugging)
 
 ## iOS
 
 ### IDE 
 - [Xcode](https://developer.apple.com/xcode/): Official IDE for developing iOS app from Apple 🚀
 
-### Debug 
+### Debugging
 - [Timelane](https://github.com/icanzilb/Timelane): Debug iOS asynchronous code
 - [RevealApp](https://revealapp.com/): Powerful runtime view debugging 💵 ⭐️
 
