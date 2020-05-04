@@ -14,14 +14,23 @@ My development tools
 - [Charles](https://www.charlesproxy.com/): Cross platfrom HTTP proxy 💵
 - [Proxyman](https://proxyman.io/): Native, high performance macOS proxy app 💵 🇻🇳🇻🇳 ⭐️
 
-### Misc
+### Codegen
+- [PaintCode](https://www.paintcodeapp.com/): Turn drawings into code 💵
+
+### Notification
 - [Pusher](https://github.com/noodlewerk/NWPusher): OS X and iOS application and framework to play with the Apple Push Notification service (APNs) 🆓 :octocat:
+
+### Simulator
 - [Simsim](https://github.com/dsmelov/simsim): Explore application folder 🆓 :octocat:
 - [iSimulator](https://github.com/wigl/iSimulator): GUI utility to control the Simulator 🆓 :octocat: 
 
 ### Services
 - [Firebase](https://firebase.google.com/): Comprehensive app development platform 💵
-- []
+
+### Learning
+- [Essential Developer](https://academy.essentialdeveloper.com/): Learning TDD and clean iOS architecture to advance iOS development career 💵 🚀
+- [Swift Talk](https://talk.objc.io/) A weekly video series on Swift programming 💵 ⭐️
+- [PointFree](https://www.pointfree.co/): A video series exploring functional programming and Swift 💵 ⭐️
 
 ## Utilities
 - [Kap](https://getkap.co/): Screen recorder 🆓 :octocat:
