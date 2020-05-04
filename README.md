@@ -4,11 +4,19 @@ My development tools
 ## iOS
 
 ### IDE 
-- [Xcode](https://developer.apple.com/xcode/): Official IDE for developing iOS app from Apple 🆓 🚀
+- [Xcode](https://developer.apple.com/xcode/): Official IDE for developing iOS app from Apple 🚀
 
 ### Debug 
-- [Timelane](https://github.com/icanzilb/Timelane): Debug iOS asynchronous code 🆓 :octocat:
+- [Timelane](https://github.com/icanzilb/Timelane): Debug iOS asynchronous code
 - [RevealApp](https://revealapp.com/): Powerful runtime view debugging 💵 ⭐️
+
+### CLI
+- Dependency manager
+  - [Cocoapod](https://cocoapods.org/): Simple dependency manager for Swift and Objective-C
+  - [Cocoapod Rome](https://github.com/CocoaPods/Rome): Makes it easy to build a list of frameworks 
+  - [Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa ⭐️
+- [Fastlane](https://github.com/fastlane/fastlane): Automate building and release app 🚀
+- [Brew](https://brew.sh/): Package Manager for macOS 
 
 ### Proxies 
 - [Charles](https://www.charlesproxy.com/): Cross platfrom HTTP proxy 💵
@@ -16,14 +24,14 @@ My development tools
 
 ### Codegen
 - [PaintCode](https://www.paintcodeapp.com/): Turn drawings into code 💵
-- [R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects 🆓 :octocat:
+- [R.swift](https://github.com/mac-cain13/R.swift): Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 
 ### Notification
-- [Pusher](https://github.com/noodlewerk/NWPusher): OS X and iOS application and framework to play with the Apple Push Notification service (APNs) 🆓 :octocat:
+- [Pusher](https://github.com/noodlewerk/NWPusher): OS X and iOS application and framework to play with the Apple Push Notification service (APNs) 
 
 ### Simulator
-- [Simsim](https://github.com/dsmelov/simsim): Explore application folder 🆓 :octocat:
-- [iSimulator](https://github.com/wigl/iSimulator): GUI utility to control the Simulator 🆓 :octocat: 
+- [Simsim](https://github.com/dsmelov/simsim): Explore application folder 
+- [iSimulator](https://github.com/wigl/iSimulator): GUI utility to control the Simulator
 
 ### Services
 - [Firebase](https://firebase.google.com/): Comprehensive app development platform 💵
@@ -34,11 +42,11 @@ My development tools
 - [PointFree](https://www.pointfree.co/): A video series exploring functional programming and Swift 💵 ⭐️
 
 ## Utilities
-- [Kap](https://getkap.co/): Screen recorder 🆓 :octocat:
+- [Kap](https://getkap.co/): Free screen recorder (video, image, gif) using web technology
 
 ## Terminal
-- [iTerm](https://www.iterm2.com/): Alternative for default macOS terminal 🆓 ⭐️
-- [fish shell](https://fishshell.com/): Simple, smart command line shell 🆓 :octocat:
+- [iTerm](https://www.iterm2.com/): Alternative for default macOS terminal ⭐️
+- [fish shell](https://fishshell.com/): Simple, smart command line shell
 
 ## Design
 - [Sketch](https://www.sketch.com/get/) 💵
