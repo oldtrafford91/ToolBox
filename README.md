@@ -3,20 +3,25 @@ My development tools
 
 ## iOS
 
-### IDE
+### IDE 
 - [Xcode](https://developer.apple.com/xcode/) 🆓
 
-### Debug
+### Debug 
 - [Timelane](https://github.com/icanzilb/Timelane): Debug iOS asynchronous code 🆓 :octocat:
+- [RevealApp](https://revealapp.com/): Powerful runtime view debugging 💵 ⭐️
 
-### Proxies
+### Proxies 
 - [Charles](https://www.charlesproxy.com/): Cross platfrom HTTP proxy 💵
-- [Proxyman](https://proxyman.io/): Native, high performance macOS proxy app 💵 🇻🇳🇻🇳
+- [Proxyman](https://proxyman.io/): Native, high performance macOS proxy app 💵 🇻🇳🇻🇳 ⭐️
 
 ### Misc
 - [Pusher](https://github.com/noodlewerk/NWPusher): OS X and iOS application and framework to play with the Apple Push Notification service (APNs) 🆓 :octocat:
 - [Simsim](https://github.com/dsmelov/simsim): Explore application folder 🆓 :octocat:
 - [iSimulator](https://github.com/wigl/iSimulator): GUI utility to control the Simulator 🆓 :octocat: 
+
+### Services
+- [Firebase](https://firebase.google.com/): Comprehensive app development platform 💵
+- []
 
 ## Utilities
 - [Kap](https://getkap.co/): Screen recorder 🆓 :octocat:
