@@ -11,12 +11,12 @@ My development tools
 
 ### Proxies
 - [Charles](https://www.charlesproxy.com/): Cross platfrom HTTP proxy 💵
-- [Proxyman](https://proxyman.io/): Native, high performance macOS proxy app by [Nghia Tran](https://www.facebook.com/nghia.tran.9883) - Vietnamese developer 💵
+- [Proxyman](https://proxyman.io/): Native, high performance macOS proxy app 💵 🇻🇳🇻🇳
 
 ### Misc
-- [Pusher](https://github.com/noodlewerk/NWPusher): OS X and iOS application and framework to play with the Apple Push Notification service (APNs) 🆓
+- [Pusher](https://github.com/noodlewerk/NWPusher): OS X and iOS application and framework to play with the Apple Push Notification service (APNs) :octocat:
 - [Simsim](https://github.com/dsmelov/simsim): Explore application folder :octocat:
-- [iSimulator](https://github.com/wigl/iSimulator): 
+- [iSimulator](https://github.com/wigl/iSimulator): GUI utility to control the Simulator :octocat: 
 
 ## Utilities
 - [Kap](https://getkap.co/): Screen recorder 🆓
