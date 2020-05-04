@@ -4,7 +4,7 @@ My development tools
 ## iOS
 
 ### IDE
-- [Xcode]()
+- [Xcode](https://developer.apple.com/xcode/) 
 
 ### Debug
 - [Timelane](https://github.com/icanzilb/Timelane): Debug iOS asynchronous code 🆓
@@ -15,6 +15,8 @@ My development tools
 
 ### Misc
 - [Pusher](https://github.com/noodlewerk/NWPusher): OS X and iOS application and framework to play with the Apple Push Notification service (APNs) 🆓
+- [Simsim](https://github.com/dsmelov/simsim): Explore application folder :octocat:
+- [iSimulator](https://github.com/wigl/iSimulator): 
 
 ## Utilities
 - [Kap](https://getkap.co/): Screen recorder 🆓
