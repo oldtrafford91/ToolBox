@@ -5,6 +5,8 @@ My development tools
 
 ### Debug
 
+- [Timelane](https://github.com/icanzilb/Timelane): Debug asynchronous code
+
 ### Proxies
 - [Charles](https://www.charlesproxy.com/)
 
