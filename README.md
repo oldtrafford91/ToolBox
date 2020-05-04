@@ -17,6 +17,7 @@ My development tools
   - [Carthage](https://github.com/Carthage/Carthage): A simple, decentralized dependency manager for Cocoa ⭐️
 - [Fastlane](https://github.com/fastlane/fastlane): Automate building and release app 🚀
 - [Brew](https://brew.sh/): Package Manager for macOS 
+- [Mint](https://github.com/yonaskolb/Mint): A package manager that installs and runs Swift CLI packages
 
 ### Proxies 
 - [Charles](https://www.charlesproxy.com/): Cross platfrom HTTP proxy 💵
