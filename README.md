@@ -54,8 +54,10 @@ My development tools
 
 ### Learning
 - [Essential Developer](https://academy.essentialdeveloper.com/): Learning TDD and clean iOS architecture to advance iOS development career 💵 🚀
-- [Swift Talk](https://talk.objc.io/) A weekly video series on Swift programming 💵 ⭐️
+- [Swift Talk](https://talk.objc.io/): A weekly video series on Swift programming 💵 ⭐️
 - [PointFree](https://www.pointfree.co/): A video series exploring functional programming and Swift 💵 ⭐️
+- [NSScreencast](https://nsscreencast.com/): Weekly tutorial for iOS developer 💵
+- [Raywenderlich](https://www.raywenderlich.com/): Giant content about iOS development 👍
 
 ## Utility
 - [Kap](https://getkap.co/): Free screen recorder (video, image, gif) using web technology
