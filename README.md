@@ -10,6 +10,7 @@ My development tools
   - [Notification](#Notification)
   - [Simulator](#Simulator)
   - [Services](#Services)
+  - [Asset](#Asset)
   - [Learning](#Learning)
 - [Utility](#Utility)
 - [Terminal](#Terminal)
@@ -51,6 +52,10 @@ My development tools
 
 ### Services
 - [Firebase](https://firebase.google.com/): Comprehensive app development platform 💵
+
+### Asset
+- [Font Awesome](https://fontawesome.com/): Vector icon and social logo 💵
+- [Font Awesome 2 PNG](https://fa2png.app/): Convert font awesome to png
 
 ### Learning
 - [Essential Developer](https://academy.essentialdeveloper.com/): Learning TDD and clean iOS architecture to advance iOS development career 💵 🚀
